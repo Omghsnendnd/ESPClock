@@ -22,7 +22,7 @@ export function ProductHeader() {
           </h1>
           
           <p className="text-xl text-center text-gray-300 max-w-2xl mx-auto leading-relaxed">
-            Transform your ESP8266 into a smart clock with weather display and multiple time zones.
+            Transform your ESP8266 into a smart clock with wave display and multiple time zones.
             Perfect for makers and IoT enthusiasts.
           </p>
           
@@ -33,7 +33,8 @@ export function ProductHeader() {
             >
               Download Now
             </button>
-            <button className="px-8 py-3 bg-gray-800 hover:bg-gray-700 rounded-lg font-medium transition-all duration-300">
+            <button 
+            className="px-8 py-3 bg-gray-800 hover:bg-gray-700 rounded-lg font-medium transition-all duration-300">
               View Documentation
             </button>
           </div>
