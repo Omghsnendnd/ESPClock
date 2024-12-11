@@ -1,5 +1,4 @@
-import React from 'react';
-import { Download, Calendar, HardDrive, Check, Github, Book, Terminal } from 'lucide-react';
+import { Download, Calendar, HardDrive } from 'lucide-react';
 import { Firmware } from '../types';
 import { downloadFirmware } from '../utils/download';
 

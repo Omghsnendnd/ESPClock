@@ -1,4 +1,3 @@
-import React from 'react';
 import { Prerequisites } from './Prerequisites';
 import { HardwareConnections } from './HardwareConnections';
 import { SetupSteps } from './SetupSteps';
